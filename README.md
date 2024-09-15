@@ -22,3 +22,11 @@ Key Skills: Log analysis, threat detection, SIEM configuration, incident respons
 Description: I performed static and dynamic analysis of a suspicious file to uncover its behavior. The project involves reversing the malware and understanding its impact on a simulated environment.
 Tools: Ghidra, Wireshark, Sandbox analysis tools
 Key Skills: Malware reverse engineering, network traffic analysis, static and dynamic analysis.
+
+Contact
+If you have any questions or want to discuss cybersecurity topics, feel free to reach out:
+
+Name: Ashish Hedau
+Email: ashishhedau49@gmail.com
+LinkedIn: https://www.linkedin.com/in/cyberanalystashish/
+
